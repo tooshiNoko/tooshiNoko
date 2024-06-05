@@ -1,8 +1,8 @@
-<!-- Encabezado -->
 ## ¡Hola! 👋
-> ¡Mi nombre es Miki! ¡Échale un vistazo a todos mis proyectos y habilidades!
+> My name is Miki! Check out all my projects and skills!
 
-<!-- Tablas -->
+---
+
 <details>
   <summary style="font-weight: bold;">Lenguajes y Librerías</summary>
   <br>
@@ -24,9 +24,6 @@
 
 </details>
 
-<!-- Imagen de fondo -->
-<div style="position: relative;">
-  <img src="(https://github.com/MikiSerra/mikiserra/assets/170416290/23072d02-bd5b-40fb-b995-8af47e4856f0)" style="position: absolute; top: 0; left: 0; width: 100%; height: auto; z-index: -1;">
-</div>
+---
 
-
+![hack_cat](https://github.com/MikiSerra/mikiserra/assets/170416290/22ed693e-8bc1-4c11-8897-21cd742eace6)
