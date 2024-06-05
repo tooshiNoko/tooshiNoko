@@ -1,4 +1,4 @@
-## ¡Hola! 👋
+## Hi there! 👋
 > My name is Miki! Check out all my projects and skills!
 
 ---
