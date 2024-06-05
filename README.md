@@ -4,7 +4,7 @@
 ---
 
 <details>
-  <summary style="font-weight: bold;">Lenguajes y Librerías</summary>
+  <summary style="font-weight: bold;">Languages</summary>
   <br>
 
   | **Lenguajes** | **Librerías** |
@@ -15,7 +15,7 @@
 </details>
 
 <details>
-  <summary style="font-weight: bold;">Software</summary>
+  <summary style="font-weight: bold;">Softwares</summary>
   <br>
 
   | **Software** |
