@@ -26,4 +26,4 @@
 
 ---
 
-![hack_cat](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeThzZ2YxdmpuaDltdGVpbGhnZW4ydmJqZ2dyeng4dWF2ajFybW41dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/wwg1suUiTbCY8H8vIA/giphy.webp)
+![hack_cat](https://media.tenor.com/rWk8ge6rvTQAAAAM/cats-computer.gif)
