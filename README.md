@@ -26,4 +26,4 @@
 
 ---
 
-![hack_cat](https://github.com/MikiSerra/mikiserra/assets/170416290/22ed693e-8bc1-4c11-8897-21cd742eace6)
+![hack_cat](https://media3.giphy.com/media/pOKrXLf9N5g76/200w.gif?cid=6c09b952gsfdkww7lcik3pihbizc06we19siuhoqixnuoc6j&ep=v1_gifs_search&rid=200w.gif&ct=g)
