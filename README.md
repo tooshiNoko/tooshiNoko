@@ -26,4 +26,4 @@
 
 ---
 
-![hack_cat](https://giphy.com/embed/wwg1suUiTbCY8H8vIA" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/glitch-matrix-cat-wwg1suUiTbCY8H8vIA)
+![hack_cat](https://giphy.com/embed/wwg1suUiTbCY8H8vIA)
