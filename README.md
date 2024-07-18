@@ -26,4 +26,4 @@
 
 ---
 
-![hack_cat](https://media3.giphy.com/media/PjUGKdds3eGzfBzqJB/200w.gif?cid=6c09b952gsfdkww7lcik3pihbizc06we19siuhoqixnuoc6j&ep=v1_gifs_search&rid=200w.gif&ct=g)
+![hack_cat](<img src= "https://media3.giphy.com/media/PjUGKdds3eGzfBzqJB/200w.gif?cid=6c09b952gsfdkww7lcik3pihbizc06we19siuhoqixnuoc6j&ep=v1_gifs_search&rid=200w.gif&ct=g)width="900" height="500">)
